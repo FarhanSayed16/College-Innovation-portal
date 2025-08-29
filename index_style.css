@@ -1,0 +1,32 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #007bff;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  color: #007bff;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 20px 0;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
