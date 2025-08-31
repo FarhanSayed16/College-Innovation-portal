@@ -13,7 +13,6 @@ A secure, role-based web portal for administrators, faculty, and students to:
 * Ensure **privacy, access control, and multilingual support**
 
 > ![Flowchart](./assets/flowchart-innovation-portal.png)
-> *(Replace with your image file; e.g., the one you shared.)*
 
 ---
 
