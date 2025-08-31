@@ -65,16 +65,67 @@ A secure, role-based web portal for administrators, faculty, and students to:
 ## 🗂️ Suggested Folder Structure
 
 ```
-/public
-  index.php
-  /assets (css, js, images)
-  /uploads
-/app
-  /config (db.php, app.php)
-  /models (User.php, Paper.php, Achievement.php, Award.php, Innovation.php)
-  /controllers (AuthController.php, DashboardController.php, UploadController.php, AdminController.php)
-  /views (auth/, dashboard/, records/, admin/, partials/)
-  /lib (ChartJS helpers, CSV/XLSX import, sanitizer)
+Perfect 👍 thanks for sharing the actual folder structure. Since your project is flat (mostly PHP scripts + a couple of CSS files + DB config), I’ll adapt the **README snippet** and folder structure section to match **your current layout** instead of the generic MVC suggestion I gave earlier.
+
+Here’s the revised snippet for your README:
+
+```markdown
+<p align="center">
+  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
+  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue" />
+  <img src="https://img.shields.io/badge/Backend-PHP-orange" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blueviolet" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+---
+
+## 📂 Project Structure
+```
+
+College-Innovation-Portal/
+│── add\_indicator.php       # Add innovation indicators
+│── admin\_panel.php         # Admin dashboard
+│── admin\_students.php      # Manage student users
+│── admin\_view\.php          # Admin view of submissions
+│── chart.php               # Graphs & charts (innovation stats)
+│── config.php              # Configuration file
+│── dashboard.php           # Main dashboard (post login)
+│── db.php                  # Database connection
+│── delete\_file.php         # Delete uploaded files
+│── faculty\_page.php        # Faculty dashboard
+│── faculty1.php            # Alternate faculty view
+│── file\_path/              # File storage (uploads)
+│── index.php               # Landing / Login/Register
+│── index\_style.css         # Styles for landing page
+│── login.php               # Login logic
+│── login.css               # Login page styling
+│── logout.php              # Logout script
+│── register.php            # Registration page
+│── student\_page.php        # Student dashboard
+│── student\_upload.php      # Student upload form
+│── style.css               # Global styling
+│── upload\_file.php         # Upload UI
+│── upload\_handler.php      # Upload handling script
+│── README.md               # Documentation
+│── Research paper on AI.pdf # Sample uploaded document
+
+```
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS (custom + index/login styles), basic JS
+- **Backend:** Core PHP (procedural)
+- **Database:** MySQL
+- **Visualization:** PHP + Chart.js for graphs
+```
+
+👉 This way, your README matches the **real folder structure** and doesn’t confuse contributors with an MVC layout you didn’t use.
+
+Do you want me to also write a **short installation guide** (setup `db.php`, import schema, run `index.php`) so anyone cloning your repo can get it running quickly?
+
 ```
 
 ---
