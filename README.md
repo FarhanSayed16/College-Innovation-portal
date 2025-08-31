@@ -217,5 +217,3 @@ return [
 Built at **Vidyalankar School of Information Technology** by **Farhan Sayed** (Core PHP + MySQL).
 
 ---
-
-If you want, I can tailor this README to your exact folder names, add sample screenshots, and include a basic seed script so it runs out-of-the-box.
