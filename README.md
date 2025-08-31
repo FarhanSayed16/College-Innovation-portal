@@ -1,4 +1,4 @@
-# Innovation Excellence Portal — Pillai College
+# Innovation Excellence Portal — 
 
 *A unified portal to track, measure, and showcase innovation across institutes (VIT, VSIT, VP). Built with Core PHP & MySQL.*
 
