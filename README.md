@@ -214,7 +214,7 @@ return [
 
 ## 🙌 Credits
 
-Built at **Pillai College** by **Farhan Sayed** (Core PHP + MySQL).
+Built at **Vidyalankar School of Information Technology** by **Farhan Sayed** (Core PHP + MySQL).
 
 ---
 
