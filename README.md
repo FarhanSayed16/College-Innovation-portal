@@ -15,7 +15,16 @@ A secure, role-based web portal for administrators, faculty, and students to:
 > ![Flowchart](./assets/flowchart-innovation-portal.png)
 
 ---
+<p align="center">
+  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
+  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FBootstrap%2FJS-blue" />
+  <img src="https://img.shields.io/badge/Backend-Core%20PHP-orange" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blueviolet" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 
+---
 ## ✨ Key Features
 
 * **Role-based Access**
