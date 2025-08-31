@@ -1,5 +1,3 @@
-Awesome—yes, I remember it. Based on your notes, here’s a polished, ready-to-paste **GitHub README** for your Pillai College **Innovation Excellence Portal** (Core PHP + MySQL). You can drop in your flowchart image where noted.
-
 # Innovation Excellence Portal — Pillai College
 
 *A unified portal to track, measure, and showcase innovation across institutes (VIT, VSIT, VP). Built with Core PHP & MySQL.*
