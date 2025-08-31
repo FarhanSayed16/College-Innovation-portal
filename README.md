@@ -104,8 +104,6 @@ College-Innovation-Portal/
   
 ```
 
----
-
 ## 🧱 Minimal DB Schema (core tables)
 
 ```sql
