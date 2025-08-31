@@ -65,25 +65,6 @@ A secure, role-based web portal for administrators, faculty, and students to:
 ## 🗂️ Suggested Folder Structure
 
 ```
-Perfect 👍 thanks for sharing the actual folder structure. Since your project is flat (mostly PHP scripts + a couple of CSS files + DB config), I’ll adapt the **README snippet** and folder structure section to match **your current layout** instead of the generic MVC suggestion I gave earlier.
-
-Here’s the revised snippet for your README:
-
-```markdown
-<p align="center">
-  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
-  <a href="https://github.com/FarhanSayed16/College-Innovation-Portal/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/College-Innovation-Portal?style=social" /></a>
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue" />
-  <img src="https://img.shields.io/badge/Backend-PHP-orange" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blueviolet" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
-
----
-
-## 📂 Project Structure
-```
-
 College-Innovation-Portal/
 │── add\_indicator.php       # Add innovation indicators
 │── admin\_panel.php         # Admin dashboard
@@ -120,12 +101,7 @@ College-Innovation-Portal/
 - **Backend:** Core PHP (procedural)
 - **Database:** MySQL
 - **Visualization:** PHP + Chart.js for graphs
-```
-
-👉 This way, your README matches the **real folder structure** and doesn’t confuse contributors with an MVC layout you didn’t use.
-
-Do you want me to also write a **short installation guide** (setup `db.php`, import schema, run `index.php`) so anyone cloning your repo can get it running quickly?
-
+  
 ```
 
 ---
